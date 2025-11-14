@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs / Dumps
+*.log
+*.pid
+
+# OS files
+Thumbs.db
+.DS_Store
