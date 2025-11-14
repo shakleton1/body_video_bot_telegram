@@ -1,4 +1,3 @@
-# Telegram Rehab Bot
 
 ## Структура
 
